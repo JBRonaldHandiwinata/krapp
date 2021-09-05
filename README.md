@@ -1,6 +1,6 @@
 # krapp
 Bloging web app using ReactJs, simple web app to write personal blog.<br/>
-Using krapi repo to display & storing data into database.
+Using [krapi](https://github.com/JBRonaldHandiwinata/krapi) repo to display & storing data into database.
 
 ## Limitations
 1. No responsive design
